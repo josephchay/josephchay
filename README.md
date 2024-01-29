@@ -42,7 +42,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephchay&layout=donut&theme=dracula">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=josephchay&theme=tokyonight&border_radius=5&card_width=500" height="215px">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=josephchay&theme=monokai-metallian&border_radius=5&card_width=500" height="215px">
 <p align="center">
   
 ---
