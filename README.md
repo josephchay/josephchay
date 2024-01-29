@@ -3,7 +3,10 @@
 </div>
 
 <h1 align="center">Hey 👋, I'm Joseph</h1>
-<h3 align="center">Dedicated software developer and programmer, driven to engineer solutions while committed to skill enhaancement with the latest technologies.</h3>
+<h3 align="center">
+    Devoted software engineer and developer, with passion in crafting practical solutions. 
+    My commitment constantly drives me to consistently elevate my skills by immersing myself in the latest technologies. 
+</h3>
 
 ---
 
