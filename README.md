@@ -21,20 +21,21 @@
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="65">
+<img src="https://github.com/josephchay/josephchay/assets/136827046/832e26cf-9fd4-47e8-a162-c06643801e9c" width="65">
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="65">
 <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/php/php-vertical.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="60">
+<img src="https://github.com/josephchay/josephchay/assets/136827046/f0456f9e-cfb0-4c8c-9b8a-ef94325d35f7" width="60">
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="80">
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/pugjs/pugjs-icon.svg" width="60">
+<img src="https://github.com/josephchay/josephchay/assets/136827046/eea1b31f-101a-4249-8a1e-2fc767dd5f42" width="70" />
+<img src="https://github.com/josephchay/josephchay/assets/136827046/6cab4d2a-03ca-4f49-96d6-4848d1370be3" alt="C++ language" width="70" /> 
 <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="60">
-
----
 
 <p align="center">
     <img src="https://github.com/josephchay/josephchay/assets/136827046/8638f270-5a60-408b-b24f-edda3b4d51e8" alt="STATS">
