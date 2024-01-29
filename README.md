@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hey 👋, I'm Joseph</h1>
-<h3 align="center" style="margin: 10px 80px; line-height: 24px">
+<h3 align="center">
     Devoted software engineer and developer, with passion in crafting practical solutions. 
     My commitment constantly drives me to consistently elevate my skills by immersing myself in the latest technologies. 
 </h3>
