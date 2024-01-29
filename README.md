@@ -37,6 +37,8 @@
 <img src="https://github.com/josephchay/josephchay/assets/136827046/6cab4d2a-03ca-4f49-96d6-4848d1370be3" alt="C++ language" width="70" /> 
 <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="60">
 
+---
+
 <p align="center">
     <img src="https://github.com/josephchay/josephchay/assets/136827046/8638f270-5a60-408b-b24f-edda3b4d51e8" alt="STATS">
 <p align="center">
