@@ -180,4 +180,4 @@
 </a>
 </p>
 
-![snake animation](https://github.com/josephchay/josephchay/blob/output/github-contribution-grid-snake2.svg)
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/josephchay/josephchay/output/github-contribution-grid-snake.svg" />
