@@ -4,7 +4,6 @@
 
 <h1 align="center">Hey 👋, Who am I?</h1>
 <div>
-<br/>
 - 🔭 Full-stack developer designing and building scalable, high-performance web and mobile applications with proficiency in both frontend and backend<br/>
 - 🤖 Mastering deep learning and machine learning to create intelligent detection and generation models<br/>
 - 🌱 Learning new technologies and frameworks to stay up-to-date with the latest trends in the industry<br/>
@@ -181,6 +180,4 @@
 </a>
 </p>
 
-![Snake animation](https://github.com/josephchay/josephchay/blob/output/github-contribution-grid-snake.svg)
-
----
+![snake animation](https://github.com/josephchay/josephchay/blob/output/github-contribution-grid-snake2.svg)
