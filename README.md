@@ -13,6 +13,7 @@
 ---
 
 # 💻 My favorite tools and technologies
+
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
@@ -174,10 +175,12 @@
 </a>
 -->
 
-<p align="center">
-<a href="https://gist.github.com/josephchay">
-<img src="https://profile-counter.glitch.me/{josephchay}/count.svg" alt="josephchay :: Visitor's Count" />
-</a>
-</p>
+<!-- <p align="center">
+  <a href="https://gist.github.com/josephchay">
+    <img src="https://profile-counter.glitch.me/{josephchay}/count.svg" alt="josephchay :: Visitor's Count" />
+  </a>
+</p> -->
 
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/josephchay/josephchay/output/github-contribution-grid-snake-dark.svg" />
+<!-- <img alt="GitHub Snake" src="https://raw.githubusercontent.com/josephchay/josephchay/output/github-contribution-grid-snake-dark.svg" /> -->
+
+![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
