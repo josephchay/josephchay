@@ -145,10 +145,10 @@
 -->
 
 <a href="https://github.com/josephchay?tab=repositories">
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=josephchay&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Joseph Chay's github-readme-stats"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=josephchay&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Joseph Chay's github-readme-stats"/>
 </a>
 <a href="https://github.com/josephchay?tab=stars">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=josephchay&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Joseph Chay's github-readme-streak-stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=josephchay&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Joseph Chay's github-readme-streak-stats"/>
 </a>
 </p>
 
@@ -181,6 +181,8 @@
   </a>
 </p> -->
 
+<img src="./assets/ssr-contributions.svg" alt="Metrics" width="100%">
+
 <!-- <img alt="GitHub Snake" src="https://raw.githubusercontent.com/josephchay/josephchay/output/github-contribution-grid-snake-dark.svg" /> -->
 
-![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
+<!-- ![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg) -->
