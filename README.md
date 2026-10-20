@@ -2,17 +2,17 @@
   <img src="https://github.com/josephchay/josephchay/assets/136827046/0f2b5989-fd0d-4991-a8f5-57d2f24e31f9" alt="JOSEPH">
 </div>
 
-<h1 align="center">Hey 👋, Who am I?</h1>
+<!-- <h1 align="center">Hey 👋, Who am I?</h1>
 <div>
 - 🔭 Full-stack developer designing and building scalable, high-performance web and mobile applications with proficiency in both frontend and backend<br/>
 - 🤖 Mastering deep learning and machine learning to create intelligent detection and generation models<br/>
 - 🌱 Learning new technologies and frameworks to stay up-to-date with the latest trends in the industry<br/>
 - 🔒 Learning Web3 DeFi, NFT, and blockchain technologies to build decentralized applications<br/>
-</div>
+</div> -->
 
 ---
 
-# 💻 My favorite tools and technologies
+<!-- # 💻 My favorite tools and technologies
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -134,9 +134,9 @@
  </tr>
 </table>
 <br><br>
-</div>
+</div> -->
 
-<p align="center">
+<!-- <p align="center"> -->
 
 <!--
 <a href="https://github.com/josephchay?tab=repositories">
@@ -144,22 +144,22 @@
 </a>
 -->
 
-<a href="https://github.com/josephchay?tab=repositories">
+<!-- <a href="https://github.com/josephchay?tab=repositories">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=josephchay&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Joseph Chay's github-readme-stats"/>
 </a>
 <a href="https://github.com/josephchay?tab=stars">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=josephchay&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Joseph Chay's github-readme-streak-stats"/>
 </a>
-</p>
+</p> -->
 
-<a href=""><img src="./assets/colored.png" width="100%" alt=""/></a>
+<!-- <a href=""><img src="./assets/colored.png" width="100%" alt=""/></a> -->
 
 <!-- activity graph heroku-app start -->
-<p align="center">
+<!-- <p align="center">
     <a href="https://wakatime.com/josephchay">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=josephchay&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
-</p>
+</p> -->
 <!-- activity graph heroku-app end -->
 
 <!--
@@ -181,7 +181,7 @@
   </a>
 </p> -->
 
-<img src="./assets/ssr-contributions.svg" alt="Metrics" width="100%">
+<!-- <img src="./assets/ssr-contributions.svg" alt="Metrics" width="100%"> -->
 
 <!-- <img alt="GitHub Snake" src="https://raw.githubusercontent.com/josephchay/josephchay/output/github-contribution-grid-snake-dark.svg" /> -->
 
